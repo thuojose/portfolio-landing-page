@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+color: whitesmoke;
+}
+
+.body1{
+    background-image: url('https://images.unsplash.com/photo-1593642532781-03e79bf5bec2?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80');
+}
+
+
+#over img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 45%;
+  }
+
+.img1{
+    text-align: center;
+    color: whitesmoke;
+}

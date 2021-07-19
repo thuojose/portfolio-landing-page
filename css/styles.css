@@ -3,10 +3,18 @@ h1{
 color: whitesmoke;
 }
 
-.body1{
-    background-image: url('https://images.unsplash.com/photo-1593642532781-03e79bf5bec2?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80');
+
+body {
+    color: whitesmoke;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.801), rgba(0, 0, 0, 0.76)), url(/christina-wocintechchat-com-eAXpbb4vzKU-unsplash.jpg);
+
 }
 
+
+a {
+    color: white;
+    text-decoration: none;
+}
 
 #over img {
     margin-left: auto;
@@ -19,3 +27,10 @@ color: whitesmoke;
     text-align: center;
     color: whitesmoke;
 }
+
+.photo {
+    width: 10rem;
+    height: 10rem;
+}
+
+
